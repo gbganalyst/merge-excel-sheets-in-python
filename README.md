@@ -1,6 +1,6 @@
 # Merge MS-Excel sheets into a dataframe in Python
 
-This is [part 2](https://bit.ly/data_consolidation2) of data consolidation in Python. If you want to start reading from part 1 please click [here](https://bit.ly/data_consolidation)
+This is [part 2](https://bit.ly/data_consolidation2) of data consolidation in Python. If you want to start reading from part 1 please click [here](https://bit.ly/data_consolidation).
 
 Are your dataset rows spread across different MS-Excel sheets and you want to consolidate them to a single dataframe?
 
